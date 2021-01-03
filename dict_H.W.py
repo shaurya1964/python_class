@@ -16,8 +16,8 @@ print(names)
 for key_label, value_label in names.items():
   print(key_label+" "+ str(value_label))
 
-   ======================
-    OUTPUT
+  # ======================
+   # OUTPUT
   
 #  {'SRK': 20, 'Salman': 40, 'Amir': 50}
 #SRK
