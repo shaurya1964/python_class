@@ -16,3 +16,22 @@ key_bunch = {
 }
 
 print(key_bunch["safe_key"]
+      
+food_item = {
+  1: "pizza",
+  2: "vadapav",
+  3: "burger"
+}
+item = int(input("Enter your order:"))
+print("You ordered:{0}".format(food_item[item]))
+
+for key-label in key_bunch.keys():
+  print(key_label)
+
+for key_label in key_bunch.values():
+  print(key_label)
+
+for key_label,key-val  in key_bunch.items():
+  print("key_label+" "+ key_val)
+
+  roll_numbers = {}
